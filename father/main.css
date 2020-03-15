@@ -1,0 +1,10 @@
+h1{
+	color: red;
+	width: 5px;
+	height: 15px; 
+}
+img{
+	max-height: 100px;
+	max-width: 100px;
+	margin: (5px 10px)
+}
